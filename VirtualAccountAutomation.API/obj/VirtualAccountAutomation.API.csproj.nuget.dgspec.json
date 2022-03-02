@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.API/VirtualAccountAutomation.API.csproj": {}
+  },
+  "projects": {
+    "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.API/VirtualAccountAutomation.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.API/VirtualAccountAutomation.API.csproj",
+        "projectName": "VirtualAccountAutomation.API",
+        "projectPath": "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.API/VirtualAccountAutomation.API.csproj",
+        "packagesPath": "/Users/hyzic/.nuget/packages/",
+        "outputPath": "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hyzic/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/VirtualAccountAutomation.Core.csproj": {
+                "projectPath": "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/VirtualAccountAutomation.Core.csproj"
+              },
+              "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/VirtualAccountAutomation.Infrastructure.csproj": {
+                "projectPath": "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/VirtualAccountAutomation.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/VirtualAccountAutomation.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/VirtualAccountAutomation.Core.csproj",
+        "projectName": "VirtualAccountAutomation.Core",
+        "projectPath": "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/VirtualAccountAutomation.Core.csproj",
+        "packagesPath": "/Users/hyzic/.nuget/packages/",
+        "outputPath": "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hyzic/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/VirtualAccountAutomation.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/VirtualAccountAutomation.Infrastructure.csproj",
+        "projectName": "VirtualAccountAutomation.Infrastructure",
+        "projectPath": "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/VirtualAccountAutomation.Infrastructure.csproj",
+        "packagesPath": "/Users/hyzic/.nuget/packages/",
+        "outputPath": "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hyzic/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/VirtualAccountAutomation.Core.csproj": {
+                "projectPath": "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/VirtualAccountAutomation.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

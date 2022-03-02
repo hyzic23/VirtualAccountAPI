@@ -1,0 +1,15 @@
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/bin/Debug/net5.0/VirtualAccountAutomation.Infrastructure.deps.json
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/bin/Debug/net5.0/VirtualAccountAutomation.Infrastructure.dll
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/bin/Debug/net5.0/ref/VirtualAccountAutomation.Infrastructure.dll
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/bin/Debug/net5.0/VirtualAccountAutomation.Infrastructure.pdb
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/bin/Debug/net5.0/VirtualAccountAutomation.Core.dll
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/bin/Debug/net5.0/VirtualAccountAutomation.Core.pdb
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/obj/Debug/net5.0/VirtualAccountAutomation.Infrastructure.csproj.AssemblyReference.cache
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/obj/Debug/net5.0/VirtualAccountAutomation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/obj/Debug/net5.0/VirtualAccountAutomation.Infrastructure.AssemblyInfoInputs.cache
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/obj/Debug/net5.0/VirtualAccountAutomation.Infrastructure.AssemblyInfo.cs
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/obj/Debug/net5.0/VirtualAccountAutomation.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/obj/Debug/net5.0/VirtualAccountAutomation.Infrastructure.csproj.CopyComplete
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/obj/Debug/net5.0/VirtualAccountAutomation.Infrastructure.dll
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/obj/Debug/net5.0/ref/VirtualAccountAutomation.Infrastructure.dll
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/obj/Debug/net5.0/VirtualAccountAutomation.Infrastructure.pdb

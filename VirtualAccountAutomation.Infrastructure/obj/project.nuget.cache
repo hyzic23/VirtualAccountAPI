@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "xnqDO+ajSURwf+Hrt2S7vE0gSxsdCThIAqsmclgkz9FFm7UqNZyZRP6++/d6apudgDoBxZLGkskQopkyYLgV1w==",
+  "success": true,
+  "projectFilePath": "/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Infrastructure/VirtualAccountAutomation.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/hyzic/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/fluentvalidation/10.3.6/fluentvalidation.10.3.6.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/fluentvalidation.aspnetcore/10.3.6/fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.6/fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/system.data.sqlclient/4.8.3/system.data.sqlclient.4.8.3.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

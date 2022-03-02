@@ -1,0 +1,12 @@
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/bin/Debug/net5.0/VirtualAccountAutomation.Core.deps.json
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/bin/Debug/net5.0/VirtualAccountAutomation.Core.dll
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/bin/Debug/net5.0/ref/VirtualAccountAutomation.Core.dll
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/bin/Debug/net5.0/VirtualAccountAutomation.Core.pdb
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/obj/Debug/net5.0/VirtualAccountAutomation.Core.csproj.AssemblyReference.cache
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/obj/Debug/net5.0/VirtualAccountAutomation.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/obj/Debug/net5.0/VirtualAccountAutomation.Core.AssemblyInfoInputs.cache
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/obj/Debug/net5.0/VirtualAccountAutomation.Core.AssemblyInfo.cs
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/obj/Debug/net5.0/VirtualAccountAutomation.Core.csproj.CoreCompileInputs.cache
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/obj/Debug/net5.0/VirtualAccountAutomation.Core.dll
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/obj/Debug/net5.0/ref/VirtualAccountAutomation.Core.dll
+/Users/hyzic/Documents/sandbox/c#/VirtualAccountAutomationService/VirtualAccountAutomation.Core/obj/Debug/net5.0/VirtualAccountAutomation.Core.pdb
